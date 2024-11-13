@@ -40,6 +40,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maleeshapa&label=Profile%20views&color=0e75b6&style=flat" alt="maleeshapa" /> </p>
 
+###
+</br>
+<hr>
+
+<h3 align="left">Projects:</h3>
+
+###
+
+1 POS System - https://github.com/Maleeshapa/Pos-System
+2 Pawning Center - https://github.com/Maleeshapa/Pawning-Center
+3 Hotel Reservation System - https://github.com/Maleeshapa/DelmaMountView
+4 Patient Management System - https://github.com/Maleeshapa/Patient-Management-System
+5 Waffle Cone Site - https://github.com/Maleeshapa/Ice-Cone-Waffles
+6 Juice Bar Site - https://github.com/Maleeshapa/Be-Cool
+7 Photographer Site - https://github.com/Maleeshapa/SayCheese_final
+8 E-Commerce Site - https://github.com/KavinduLakshika/E-Commerce
+
 - 👨‍💻 All of my projects are available at [https://github.com/Maleeshapa](https://github.com/Maleeshapa)
 
 - 📫 How to reach me **maleeshapathirana1@gmail.com**
