@@ -47,18 +47,18 @@
 
 ###
 
-1 POS System - https://github.com/Maleeshapa/Pos-System</br>
-2 Pawning Center - https://github.com/Maleeshapa/Pawning-Center</br>
-3 Hotel Reservation System - https://github.com/Maleeshapa/DelmaMountView</br>
-4 Patient Management System - https://github.com/Maleeshapa/Patient-Management-System</br>
-5 Waffle Cone Site - https://github.com/Maleeshapa/Ice-Cone-Waffles</br>
-6 Juice Bar Site - https://github.com/Maleeshapa/Be-Cool</br>
-7 Photographer Site - https://github.com/Maleeshapa/SayCheese_final</br>
-8 E-Commerce Site - https://github.com/KavinduLakshika/E-Commerce</br>
+- POS System - https://github.com/Maleeshapa/Pos-System</br>
+- Pawning Center - https://github.com/Maleeshapa/Pawning-Center</br>
+- Hotel Reservation System - https://github.com/Maleeshapa/DelmaMountView</br>
+- Patient Management System - https://github.com/Maleeshapa/Patient-Management-System</br>
+- Waffle Cone Site - https://github.com/Maleeshapa/Ice-Cone-Waffles</br>
+- Juice Bar Site - https://github.com/Maleeshapa/Be-Cool</br>
+- Photographer Site - https://github.com/Maleeshapa/SayCheese_final</br>
+- E-Commerce Site - https://github.com/KavinduLakshika/E-Commerce</br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Maleeshapa](https://github.com/Maleeshapa)
+1 👨‍💻 All of my projects are available at [https://github.com/Maleeshapa](https://github.com/Maleeshapa)
 
-- 📫 How to reach me **maleeshapathirana1@gmail.com**
+2 📫 How to reach me **maleeshapathirana1@gmail.com**  
 
 ###
 
