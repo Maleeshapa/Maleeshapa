@@ -41,7 +41,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maleeshapa&label=Profile%20views&color=0e75b6&style=flat" alt="maleeshapa" /> </p>
 
 ###
-</br>
 <hr>
 
 <h3 align="left">Projects:</h3>
