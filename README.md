@@ -51,6 +51,7 @@
 - Pawning Center - https://github.com/Maleeshapa/Pawning-Center</br>
 - Hotel Reservation System - https://github.com/Maleeshapa/DelmaMountView</br>
 - Patient Management System - https://github.com/Maleeshapa/Patient-Management-System</br>
+- Viduni Hotel Website - http://vidunihotel.surge.sh/index </br>
 - Waffle Cone Site - https://github.com/Maleeshapa/Ice-Cone-Waffles</br>
 - Juice Bar Site - https://github.com/Maleeshapa/Be-Cool</br>
 - Photographer Site - https://github.com/Maleeshapa/SayCheese_final</br>
